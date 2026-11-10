@@ -1,0 +1,2 @@
+D:/projects/Programming/Keeply/android/app/.cxx/release/655e6m6m/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/projects/Programming/Keeply/android/app/.cxx/release/655e6m6m/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,15 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+pubspec.lock
+android/.gradle/
+android/local.properties
+android/app/generated/
+android/app/build/
+android/key.properties
+android/keystore/
+android/app/release/
+.tooling/
+assets
